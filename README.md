@@ -2,7 +2,6 @@
 
 
 <b>Junior Software Developer</b>
-
 <ul>
   <li>
     Tech stack:
