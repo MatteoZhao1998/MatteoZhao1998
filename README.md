@@ -23,3 +23,4 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=matteozhao98&theme=dark&background=000000)](https://git.io/streak-stats) 
 
+![](https://komarev.com/ghpvc/?username=matteozhao98)
